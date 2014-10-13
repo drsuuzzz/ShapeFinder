@@ -16,6 +16,11 @@ Mike Koehrsen<br>
 Suzy (Vasa) Stiegelmeyer<br>
 Nicolas Guex<br>
 
+<h1>Citation</h1>
+Giddings MC, Severin J, Westphall M, Wu J and Smith LM, "A Software System for Data Analysis in Automated DNA Sequencing", Genome Research, 1998, 8:644-665<br>
+<br>
+Vasa SM, Guex N, Wilkinson KA, Weeks KM and Giddings MC, "ShapeFinder: A software system for high-throughput analysis of RNA structure", RNA, 2008, 14(10):1979-1990.<br>
+
 
 <h1>ShapeFinder Release Notes</h1>
 <h2>Version 0.2</h2>
